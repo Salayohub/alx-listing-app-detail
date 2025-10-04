@@ -43,6 +43,7 @@ export default function HomePage() {
             name={property.name}
             price={property.price}
             rating={property.rating}
+            
           />
         ))}
       </section>
