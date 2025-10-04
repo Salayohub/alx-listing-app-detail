@@ -1,0 +1,23 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/38258_next_dist_compiled_next-devtools_index_b5476e53.js",
+      "static/chunks/38258_next_dist_compiled_e252e5bb._.js",
+      "static/chunks/38258_next_dist_shared_lib_5d25932f._.js",
+      "static/chunks/38258_next_dist_client_19714558._.js",
+      "static/chunks/38258_next_dist_23244312._.js",
+      "static/chunks/38258_next_image_96dda014.js",
+      "static/chunks/38258_react-dom_61bcf773._.js",
+      "static/chunks/38258_8a0ec106._.js",
+      "static/chunks/[root-of-the-server]__843a0f76._.js",
+      "static/chunks/alx-listing-app-detail_alx-listing-app-01_pages_index_2da965e7._.js",
+      "static/chunks/turbopack-alx-listing-app-detail_alx-listing-app-01_pages_index_d312ce83._.js"
+    ]
+  },
+  "ampFirstPages": []
+}
